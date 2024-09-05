@@ -1,0 +1,21 @@
+References:
+
+1. Pre- Requisite:
+
+https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls?s_eid=PSM_33221 
+
+2. Optimizing Solar Array Performance Using MPPT 
+
+(https://in.mathworks.com/videos/optimizing-solar-array-performance-using-mppt-1657880084126.html?s_tid=srchtitle_site_search_8_solar%20tracker) 
+
+3. Pre- Requisite: Power Systems Simulation Onramp - CHAPTER 4 (System Integration) 
+
+(https://matlabacademy.mathworks.com/details/power-systems-simulation-onramp/orps?s_eid=PSM_33222) 
+
+4. Using the Worm and Gear Constraint Block - Solar Tracker 
+
+(https://in.mathworks.com/help/sm/ug/using-the-worm-and-gear-constraint-block-solar-tracker.html) 
+
+5. Program the Device from Simulink | Arduino Light Meter Project, Part 2 
+
+(https://in.mathworks.com/videos/arduino-light-meter-project-part-2-program-the-device-from-simulink-106500.html) 
